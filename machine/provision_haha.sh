@@ -11,7 +11,7 @@ mkdir ~/bin
 ln -s ~/etc/haha-0.56/haha ~/bin/haha
 
 # Create desktop shortcut.
-mkdir ~/Desktop
+mkdir -p ~/Desktop
 cp /vagrant/haha.desktop ~/Desktop
 chmod u+x ~/Desktop/haha.desktop
 gio set ~/Desktop/haha.desktop "metadata::trusted" yes
