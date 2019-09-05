@@ -84,7 +84,7 @@ Vagrant.configure("2") do |config|
   end
 
   config.vm.provision "shell", path: "provision.sh", privileged: true
-  config.vm.provision "shell", path: "provision_z3.sh", privileged: false
-  config.vm.provision "shell", path: "provision_haha.sh", privileged: false
   config.vm.provision :reload
+  config.vm.provision "shell", path: "provision_z3.sh", privileged: true
+  config.vm.provision "shell", path: "provision_haha.sh", privileged: false
 end
