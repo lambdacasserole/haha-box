@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=HAHA
+Comment=The Hoare advanced homework assistant.
+Exec=/home/vagrant/bin/haha
+Path=/home/vagrant/etc/haha-0.56
+Icon=/home/vagrant/etc/haha-0.56/icon.xpm
+Terminal=false
+Type=Application
+Categories=Utility;Development;
