@@ -8,10 +8,10 @@
 # Vagrant stuff
 acceptance_config.yml
 boxes/*
-/.vagrant
-/website/.vagrant
-/website/build
-/vagrant-spec.config.rb
+/machine/.vagrant
+/machine/website/.vagrant
+/machine/website/build
+/machine/vagrant-spec.config.rb
 test/vagrant-spec/.vagrant/
 
 # Bundler/Rubygems
@@ -19,10 +19,10 @@ test/vagrant-spec/.vagrant/
 .bundle
 pkg/*
 tags
-/Gemfile.lock
+/machine/Gemfile.lock
 test/tmp/
 vendor/
-/exec
+/machine/exec
 .ruby-bundle
 
 # Documentation
