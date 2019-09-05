@@ -33,5 +33,5 @@ The box is running Ubuntu "Bionic Beaver" 18.04 LTS (Desktop) with:
 
 * Gnome 3 Desktop
 * VirtualBox Guest Additions 6.0.4
-* Microsoft Z3 Theorem Prover 4.8.5
-* Hoare Advanced Homework Assistant 0.56
+* Microsoft Z3 Theorem Prover 4.8.5 \[[^](https://github.com/Z3Prover/z3)\]
+* Hoare Advanced Homework Assistant 0.56 \[[^](http://haha.mimuw.edu.pl/)\]
