@@ -1,7 +1,7 @@
 # HAHA Box (Ubuntu 18.04 Bionic Beaver)
 A Vagrant box with the Hoare Advanced Homework Assistant (HAHA) all set up and ready to go.
 
-![Logo](logo.svg)
+![Logo](assets/logo.svg)
 
 ## Prerequisites
 You'll need [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads) installed as well as [Vagrant](https://www.vagrantup.com/downloads.html).
